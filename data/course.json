@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2018",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics",
+      "Phonology"
+    ],
+    [
+      "Humanities",
+      "Linguistics",
+      "Semantics"
+    ],
+    [
+      "Humanities",
+      "Linguistics",
+      "Syntax"
+    ]
+  ],
+  "legacy_uid": "bfa113f1-d018-6044-92a7-fdb952919897",
+  "instructors": {
+    "content": [
+      "906fb5b5-becc-0ab7-eccd-df0d09c0f34b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ed61af12-c8af-929f-41b8-4843bf6db27a",
+    "website": "24-917-conlangs-how-to-construct-a-language-fall-2018"
+  },
+  "course_title": "ConLangs: How to Construct a Language",
+  "course_description": "This course explores languages that have been deliberately constructed, including Esperanto, Klingon, and Tolkien's Elvish. Students construct their own languages while considering the basic linguistic characteristics of various languages of the world. Through regular assignments, students describe the\u00a0phonology, morphology, syntax, semantics, and writing system of their\u00a0constructed language. The final assignment is a grammatical description of the new language.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.917",
+  "course_image_thumbnail": {
+    "content": "2abc0740-8589-7c70-443e-5b31fe674e82",
+    "website": "24-917-conlangs-how-to-construct-a-language-fall-2018"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments"
+  ],
+  "site_uid": "7c94e2a1-d736-4dbf-9d63-ab95b54a3cae",
+  "site_short_id": "24.917-fall-2018",
+  "title": "Course Metadata"
+}
