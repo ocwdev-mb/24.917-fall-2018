@@ -1,0 +1,47 @@
+leftnav:
+- identifier: 7d85a7b1-fd38-5765-c596-e4d01feb5bb6
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: d5f97fcd-a30e-cbc6-4371-0f68af4a95e7
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 20
+- identifier: 479be967-6de3-19cf-95e4-9f24391236e2
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 30
+- identifier: 09c2fda4-043c-5eac-d2b6-0706bd30947f
+  name: Assignment 1
+  pageRef: /pages/assignments/assignment-1
+  parent: 479be967-6de3-19cf-95e4-9f24391236e2
+  weight: 40
+- identifier: 8897ae4b-25ac-6a8c-adca-b4110f900a89
+  name: Assignment 2
+  pageRef: /pages/assignments/assignment-2
+  parent: 479be967-6de3-19cf-95e4-9f24391236e2
+  weight: 50
+- identifier: c3ad8dcc-d8c8-499f-2a08-60b7d1111fa4
+  name: Assignment 3
+  pageRef: /pages/assignments/assignment-3
+  parent: 479be967-6de3-19cf-95e4-9f24391236e2
+  weight: 60
+- identifier: a81344f4-be9d-4b29-f8c5-affb8102decf
+  name: Assignment 4
+  pageRef: /pages/assignments/assignment-4
+  parent: 479be967-6de3-19cf-95e4-9f24391236e2
+  weight: 70
+- identifier: 5fd5386f-0b85-7984-8197-0c2bdf0be283
+  name: Assignment 5
+  pageRef: /pages/assignments/assignment-5
+  parent: 479be967-6de3-19cf-95e4-9f24391236e2
+  weight: 80
+- identifier: a1b2efb2-1163-0de6-34e5-a7b17ab406d1
+  name: Final Project
+  pageRef: /pages/assignments/final-project
+  parent: 479be967-6de3-19cf-95e4-9f24391236e2
+  weight: 90
+- identifier: a674af86-1bc0-8827-2007-9e33ad3c853b
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 100
